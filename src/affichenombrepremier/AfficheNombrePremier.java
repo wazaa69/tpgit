@@ -47,4 +47,4 @@ public class AfficheNombrePremier {
         }
         return true;
     }
-} // BANDE pédé
+} // BANDE salope
