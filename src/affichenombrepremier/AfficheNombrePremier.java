@@ -47,4 +47,4 @@ public class AfficheNombrePremier {
         }
         return true;
     }
-} // BANDE salope
+} // BANDE salope t'es content bitch? LOULOU LE POU
